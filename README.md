@@ -63,6 +63,7 @@ The trained GoogLeNet model achieved an accuracy of 87% on the test set. The tra
 
 ### Live Prediction
 The script also includes code for making predictions on custom images.
+
 ![Live Prediction](assets/live_prediction.png)
 
 ## Contributing
