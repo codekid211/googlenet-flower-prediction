@@ -37,7 +37,7 @@ The dataset used for this project is the Flowers dataset, which consists of 11,3
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/googlenet-flower-prediction.git
+git clone https://github.com/codekid211/googlenet-flower-prediction.git
 
 2. Navigate to the project directory:
 
